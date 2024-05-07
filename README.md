@@ -33,8 +33,6 @@ Este é um projeto de um menu interativo para restaurantes, desenvolvido em Java
 1. Clone este repositório:
 
 git clone https://github.com/ZanottoFelipe/menu-restaurante-js.git
-markdown
-Copy code
 
 2. Abra o arquivo `index.html` em um navegador da web.
 
