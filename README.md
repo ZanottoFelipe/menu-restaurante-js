@@ -32,8 +32,7 @@ Este é um projeto de um menu interativo para restaurantes, desenvolvido em Java
 
 1. Clone este repositório:
 
-git clone https://github.com/seu-usuario/menu-restaurantes-whatsapp.git
-
+git clone https://github.com/ZanottoFelipe/menu-restaurante-js.git
 markdown
 Copy code
 
